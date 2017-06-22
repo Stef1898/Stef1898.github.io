@@ -519,3 +519,7 @@ section#contact {
     background: rgb(29, 30, 97);
     color: white;
 }
+
+input#name.form-control, input#email.form-control, input#phone.form-control, #message.form-control  {
+    color: white;
+}
